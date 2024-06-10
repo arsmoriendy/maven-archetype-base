@@ -32,8 +32,5 @@ under the License.
     <fileSet filtered="true" packaged="true">
       <directory>src/test/java</directory>
     </fileSet>
-    <fileSet>
-      <directory>.gitignore</directory>
-    </fileSet>
   </fileSets>
 </archetype-descriptor>
